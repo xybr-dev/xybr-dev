@@ -8,3 +8,4 @@
     
 </script>
 
+<Redirect href="mailto:connect@xybr.dev" />

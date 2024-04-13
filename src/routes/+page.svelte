@@ -6,3 +6,5 @@
 
     })
 </script>
+
+<Redirect href="https://github.com/xybr-dev" />
