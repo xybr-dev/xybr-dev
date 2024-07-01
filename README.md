@@ -9,7 +9,7 @@
 
 ### Connect with me ☕ :
 
-[![@xybr.dev](https://img.icons8.com/fluency/48/000000/facebook.png "@xybr.dev")](https://www.facebook.com/xybr.dev) [![@xybr-dev](https://img.icons8.com/fluency/48/000000/linkedin.png "@xybr-dev")](https://www.linkedin.com/in/xybr-dev/) [![connect@xybr.dev](https://img.icons8.com/fluency/48/000000/apple-mail.png "connect@xybr.dev")](mailto:connect@xybr.dev)
+[![@xybr.dev](https://img.icons8.com/fluency/48/000000/facebook.png "@xybr.dev")](https://www.facebook.com/xybr.dev) <!--[![@xybr-dev](https://img.icons8.com/fluency/48/000000/linkedin.png "@xybr-dev")](https://www.linkedin.com/in/xybr-dev/)--> [![connect@xybr.dev](https://img.icons8.com/fluency/48/000000/apple-mail.png "connect@xybr.dev")](mailto:connect@xybr.dev)
 
 
 
