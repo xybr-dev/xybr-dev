@@ -2,9 +2,9 @@
 
 ### About Me
 
-- 🏢 I'm currently working as a **Computer Programmer** at [J+N Automated Systems, Inc.](https://jplusn.com/)
-- 🦀 Currently exploring **Rust** and integrating it with web frameworks using **Tauri** + **SvelteKit**.
-- 🎓 Studied BS in Computer Science at the [Visayas State University](https://vsu.edu.ph/)
+- 🚀 Taking a strategic hiatus from professional work to focus on full-time upskilling in Cloud Infrastructure and modern frontend architecture.
+- 🦀 Re-exploring desktop development by learning Rust and React in tandem to build modern, memory-efficient apps with Tauri.
+- 🎓 Studied BS in Computer Science at [Visayas State University](https://vsu.edu.ph/).
 
 ### Connect with me ☕
 
@@ -63,4 +63,4 @@
   </a>
 </p>
 
-Last edited on: **26 Feb 2026**
+Last edited on: **13 Mar 2026**
