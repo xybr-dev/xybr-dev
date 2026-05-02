@@ -2,8 +2,8 @@
 
 ### About Me
 
-- 🚀 Taking a strategic hiatus from professional work to focus on full-time upskilling in Cloud Infrastructure and modern frontend architecture.
-- 🦀 Re-exploring desktop development by learning Rust and React in tandem to build modern, memory-efficient apps with Tauri.
+- 🚀 On a focused break from professional work to deepen my work in systems programming and native app development using Rust (GPUI).
+- ⚙️ Interested in automation, performance-focused systems, and backend/API architecture.
 - 🎓 Studied BS in Computer Science at [Visayas State University](https://vsu.edu.ph/).
 
 ### Connect with me ☕
@@ -63,4 +63,4 @@
   </a>
 </p>
 
-Last edited on: **13 Mar 2026**
+Last edited on: **2 May 2026**
