@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 🚀 On a focused break from professional work to deepen my work in systems programming and native app development using Rust (GPUI).
+- 🚀 Currently on break from professional work.
 - ⚙️ Interested in automation, performance-focused systems, and backend/API architecture.
 - 🎓 Studied BS in Computer Science at [Visayas State University](https://vsu.edu.ph/).
 
@@ -63,4 +63,4 @@
   </a>
 </p>
 
-Last edited on: **2 May 2026**
+Last edited on: **25 Jun 2026**
